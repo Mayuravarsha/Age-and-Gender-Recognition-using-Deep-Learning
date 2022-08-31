@@ -1,0 +1,2 @@
+# Age-and-Gender-Recognition-using-Deep-Learning
+Age and gender of a particular person was predicted by evaluating image frames from the videos. These videos can either be realtime or already available existing offline videos. Faces are detected using 'haar' or 'opencv-facenet' in python. Further training and classification was done using Convolutional Neural Networks and SSRNET using 1000 training videos.
